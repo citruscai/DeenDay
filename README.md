@@ -2,8 +2,8 @@
 
 DeenDay is a beginner-friendly Next.js starter repo for practicing open source style contributions.
 
-The app is intentionally incomplete.
-You and your friend can implement features by creating GitHub issues and pull requests.
+DeenDay is a beginner-friendly Islamic reminders web app focused on Ramadan, Quran verses, habit tracking, and daily reminders.
+The app is intentionally incomplete so contributors can implement features through GitHub issues and pull requests.
 
 ## Tech Stack
 
